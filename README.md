@@ -1,5 +1,7 @@
 # javadb
 
+![javadb logo](javadb-logo.png)
+
 A small relational database written from scratch in **Java 25**, with **no runtime dependencies**.
 
 javadb parses a subset of SQL, stores typed rows in page-based files on disk through a buffer
